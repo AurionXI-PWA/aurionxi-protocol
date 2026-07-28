@@ -1,0 +1,6 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.22;
+
+import {ITradeReadFacet} from "../../TradeDiamond/interfaces/ITradeReadFacet.sol";
+
+interface ITradeReadExternal is ITradeReadFacet {}

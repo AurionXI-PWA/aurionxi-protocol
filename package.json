@@ -1,0 +1,40 @@
+{
+  "name": "AurionXI ARX Intelligence",
+  "version": "1.0.0",
+  "description": "AurionXI ARX Intelligence Treasury System",
+  "scripts": {
+    "test": "hardhat test",
+    "coverage": "hardhat coverage --testfiles 'test/**/*.js'",
+    "gas": "hardhat test --report-gas",
+    "test:stage4": "hardhat test test/ARXIToken.stage4.test.cjs",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy_arxi_token.cjs --network bscTestnet",
+    "node": "hardhat node"
+  },
+  "devDependencies": {
+    "@ethersproject/providers": "^5.7.0",
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.14",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.0.1",
+    "@openzeppelin/contracts-upgradeable": "^5.0.1",
+    "@openzeppelin/hardhat-upgrades": "^1.28.0",
+    "@typechain/ethers-v5": "^10.1.0",
+    "@typechain/hardhat": "^6.1.2",
+    "@types/chai": "^4.2.0",
+    "@types/mocha": "^10.0.10",
+    "chai": "^4.2.0",
+    "dotenv": "^16.6.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.2",
+    "hardhat-gas-reporter": "^2.3.0",
+    "solidity-coverage": "^0.8.17",
+    "ts-node": "^10.9.2",
+    "typechain": "^8.1.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
