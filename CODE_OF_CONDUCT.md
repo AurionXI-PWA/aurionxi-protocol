@@ -1,22 +1,21 @@
-# Code of Conduct
+﻿# Code of Conduct
 
 ## Our Commitment
 
-AurionXI aims to foster a respectful, professional, and collaborative engineering community.
+AurionXI aims to maintain a respectful, professional, and collaborative engineering community.
 
 ## Expected Behavior
 
-- Be respectful.
-- Welcome constructive discussions.
-- Focus on technical collaboration.
-- Help improve the project through responsible contributions.
+- Be respectful and constructive.
+- Keep discussions focused on technical improvement.
+- Report security issues responsibly.
+- Help improve the project through clear feedback and review.
 
 ## Unacceptable Behavior
 
-- Harassment or abuse.
-- Personal attacks.
+- Harassment, abuse, or personal attacks.
 - Spam or disruptive behavior.
-- Publishing security vulnerabilities irresponsibly.
+- Irresponsible public disclosure of security vulnerabilities.
 
 ## Enforcement
 

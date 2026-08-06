@@ -1,0 +1,12 @@
+{
+  "network": "bsc",
+  "Deployer": "0x169c8a18ab622fAB62194E27d43448813095cdBc",
+  "CoreDiamond": "0xd9886FEEb82DF74737B7Dede86E3024A31637297",
+  "TreasuryDiamond": "0x06BaBd1D1a24dBe7a9E93160dDd4Ae9bCC06893a",
+  "childIndex": "0",
+  "TreasuryFacet": "0xeb34C9685B6710854e8969a51F2a43a766d81081",
+  "LpLockFacet": "0xac83e94280A2a6bE77F2CF4368e6C28Adbb51ff1",
+  "TreasuryDiamondLoupeFacet": "0x0A03557ba95a3dcA606dfFe2B2A3437bC7225d6e",
+  "ERC165Facet": "0xF3395f8b3362fCEff9D8a163f7a6b6350AbFfA8f",
+  "addedAt": "2026-07-26T06:57:29.856Z"
+}

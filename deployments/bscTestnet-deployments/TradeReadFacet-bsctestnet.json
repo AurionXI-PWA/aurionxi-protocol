@@ -1,0 +1,10 @@
+{
+  "network": "bscTestnet",
+  "CoreDiamond": "0xA9D68a2d3BBa6B11D6205739F9325D56a0F1C922",
+  "TradeDiamond": "0xa0B2D3791c1fFBf4A96ACF508Bc6F73de80811D0",
+  "index": "1",
+  "TradeReadFacet": "0xa4a061b8d4dc30217Ffca84c934087AFC1592347",
+  "txHash": "0x55664727e1d92385c32c8d0e04f8c52feee49b067b3ed37115869283e66a5761",
+  "block": 113253157,
+  "addedAt": "2026-06-14T03:16:34.024Z"
+}

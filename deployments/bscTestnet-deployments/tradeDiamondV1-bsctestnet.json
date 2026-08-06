@@ -1,0 +1,10 @@
+{
+  "network": "bscTestnet",
+  "Deployer": "0x43cBD6b6F0DD098ECE021bBC83713204dd8F98B5",
+  "CoreDiamond": "0xc4eabe3143E71e054b6D1c8C12a4cbC10e5FB1c3",
+  "Factory": "0xdFC89d13064cE07B43D3f941a5214836186224C5",
+  "TradeDiamond": "0x84A491eBd75ba816C5625113B745b05614edeC7E",
+  "SaltLabel": "AURIONXI:bscTestnet:TRADE:V1:0xc4eabe3143E71e054b6D1c8C12a4cbC10e5FB1c3",
+  "Salt": "0x3103cf4fd4c0dac6cdaaab49e84c6851de958b14b02d6bec334baf3a7ffda7dc",
+  "deployedAt": "2026-07-22T01:30:06.043Z"
+}

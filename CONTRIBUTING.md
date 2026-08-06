@@ -1,38 +1,29 @@
-# Contributing
+﻿# Contributing
 
 Thank you for your interest in contributing to AurionXI.
 
 ## Engineering Principles
 
-Contributors are encouraged to follow the engineering standards and architectural principles of the protocol.
+Contributions should preserve the protocol architecture and follow the project's modular engineering standards.
 
-### Before Submitting Changes
+## Before Submitting Changes
 
 - Keep implementations modular.
-- Preserve protocol architecture.
+- Preserve Diamond storage safety.
+- Avoid unrelated refactors.
 - Update documentation when required.
-- Test changes before submission.
-- Follow existing coding conventions.
-
----
+- Compile and test changes before submission.
+- Follow existing Solidity and Hardhat conventions.
 
 ## Pull Requests
 
 Please ensure:
 
 - Contracts compile successfully.
-- Tests pass successfully.
-- Documentation is updated when applicable.
+- Tests pass where applicable.
+- Documentation is updated when behavior changes.
 - Changes are consistent with the project's engineering standards.
 
----
+## Security
 
-## Code Reviews
-
-All contributions are subject to review before being merged.
-
-Constructive discussion and engineering feedback are always welcome.
-
----
-
-Thank you for helping improve AurionXI.
+Do not submit public pull requests containing unresolved security vulnerabilities. Follow the responsible disclosure process in `SECURITY.md`.

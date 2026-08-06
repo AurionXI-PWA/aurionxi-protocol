@@ -1,0 +1,15 @@
+{
+  "network": "bscTestnet",
+  "CoreDiamond": "0x1d4DA8e273084C74B505aC40e0310b8449583Bf7",
+  "FacetName": "CoreEmergencyReadFacet",
+  "FacetAddress": "0x56Abfc8fC536c42ad0e9eBB548AB3CDCcc2799C1",
+  "selectors": [
+    "0xa3b4cdec",
+    "0x9bc26c00",
+    "0xb8553106",
+    "0x533a27b2"
+  ],
+  "txHash": "0x750350f9589f747a22793c3730bea1d8fd9ef79437478a9c7b2275fabb07c757",
+  "blockNumber": 119796204,
+  "deployedAt": "2026-07-18T05:43:57.718Z"
+}

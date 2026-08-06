@@ -1,0 +1,155 @@
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/CoreDiamond/Core_Facets/CoreDiamondCutFacet.sol:CoreDiamondCutFacet 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/CoreDiamond/Core_Facets/CoreDiamondCutFacet.sol:CoreDiamondCutFacet at 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract CoreDiamondCutFacet on the block explorer.
+https://testnet.bscscan.com/address/0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/CoreDiamond/CoreDiamond.sol:CoreDiamond 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7 0x43cBD6b6F0DD098ECE021bBC83713204dd8F98B5 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/CoreDiamond/CoreDiamond.sol:CoreDiamond at 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract CoreDiamond on the block explorer.
+https://testnet.bscscan.com/address/0x1d4DA8e273084C74B505aC40e0310b8449583Bf7#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/factory/Create2Factory.sol:Create2Factory 0x3cBF680f6BBCf1a597bAd32D83c6760128A2Fbf9 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+The contract 0x3cBF680f6BBCf1a597bAd32D83c6760128A2Fbf9 has already been verified on the block explorer. If you're trying to verify a partially verified contract, please use the --force flag.
+https://testnet.bscscan.com/address/0x3cBF680f6BBCf1a597bAd32D83c6760128A2Fbf9#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond>
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/TreasuryDiamond/TreasuryDiamond.sol:TreasuryDiamond 0x522570E64FC23c46989fD15E334aA6cf46a2fC59 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/TreasuryDiamond/TreasuryDiamond.sol:TreasuryDiamond at 0x522570E64FC23c46989fD15E334aA6cf46a2fC59
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract TreasuryDiamond on the block explorer.
+https://testnet.bscscan.com/address/0x522570E64FC23c46989fD15E334aA6cf46a2fC59#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond>
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/TradeDiamond/TradeDiamond.sol:TradeDiamond 0x58B0e4BA3Debb693295805a3BB6A762a65c0f16D 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/TradeDiamond/TradeDiamond.sol:TradeDiamond at 0x58B0e4BA3Debb693295805a3BB6A762a65c0f16D
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract TradeDiamond on the block explorer.
+https://testnet.bscscan.com/address/0x58B0e4BA3Debb693295805a3BB6A762a65c0f16D#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond>
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/TokenDiamond/TokenDiamond.sol:TokenDiamond 0xA51ffA4035991a0F20aBf719F6A9c86B54D7297E 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/TokenDiamond/TokenDiamond.sol:TokenDiamond at 0xA51ffA4035991a0F20aBf719F6A9c86B54D7297E
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract TokenDiamond on the block explorer.
+https://testnet.bscscan.com/address/0xA51ffA4035991a0F20aBf719F6A9c86B54D7297E#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond>
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/AnalyticDiamond/AnalyticDiamond.sol:AnalyticDiamond 0x726e6DCd71595164a520A35580A594A2bd2cdA07 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/AnalyticDiamond/AnalyticDiamond.sol:AnalyticDiamond at 0x726e6DCd71595164a520A35580A594A2bd2cdA07
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract AnalyticDiamond on the block explorer.
+https://testnet.bscscan.com/address/0x726e6DCd71595164a520A35580A594A2bd2cdA07#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond>
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/AIDiamond/AIDiamond.sol:AIDiamond 0x0B7A0CDe3603063539564eDB7379Eb5fdECF9B38 0x1d4DA8e273084C74B505aC40e0310b8449583Bf7 0x06c42Eff5765DfA0F02EB17b8556134f7De9DD80
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/AIDiamond/AIDiamond.sol:AIDiamond at 0x0B7A0CDe3603063539564eDB7379Eb5fdECF9B38
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract AIDiamond on the block explorer.
+https://testnet.bscscan.com/address/0x0B7A0CDe3603063539564eDB7379Eb5fdECF9B38#code
+
+PS C:\AurionXICoreDiamond\AurionXIDiamond>
+PS C:\AurionXICoreDiamond\AurionXIDiamond> npx hardhat verify --network bscTestnet --contract contracts/SBT/SBT.sol:SBT 0xF01254351b622198Eb604A33F2E250208d0F196C 0x43cBD6b6F0DD098ECE021bBC83713204dd8F98B5
+[INFO] Sourcify Verification Skipped: Sourcify verification is currently disabled. To enable it, add the following entry to your Hardhat configuration:
+
+sourcify: {
+  enabled: true
+}
+
+Or set 'enabled' to false to hide this message.
+
+For more information, visit https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-verify#verifying-on-sourcify
+Successfully submitted source code for contract
+contracts/SBT/SBT.sol:SBT at 0xF01254351b622198Eb604A33F2E250208d0F196C
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract SBT on the block explorer.
+https://testnet.bscscan.com/address/0xF01254351b622198Eb604A33F2E250208d0F196C#code

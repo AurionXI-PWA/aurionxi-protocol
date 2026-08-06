@@ -1,0 +1,7 @@
+{
+  "network": "bscTestnet",
+  "Deployer": "0x43cBD6b6F0DD098ECE021bBC83713204dd8F98B5",
+  "CoreDiamond": "0xc4eabe3143E71e054b6D1c8C12a4cbC10e5FB1c3",
+  "Factory": "0xdFC89d13064cE07B43D3f941a5214836186224C5",
+  "deployedAt": "2026-07-22T01:29:45.911Z"
+}

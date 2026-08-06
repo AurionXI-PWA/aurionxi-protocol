@@ -1,0 +1,9 @@
+{
+  "network": "bscTestnet",
+  "deployer": "0x43cBD6b6F0DD098ECE021bBC83713204dd8F98B5",
+  "CoreDiamond": "0xA9D68a2d3BBa6B11D6205739F9325D56a0F1C922",
+  "TokenDiamond": "0xD6B97F45a5684ecd1838F648cED8ca94349EEdB4",
+  "FeeFacet": "0xeEA4BEFFCe5775e1bB362B7a71E4D746bf62EeBE",
+  "childIndex": "2",
+  "addedAt": "2026-06-15T03:19:48.370Z"
+}

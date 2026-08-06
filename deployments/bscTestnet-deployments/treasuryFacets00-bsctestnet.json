@@ -1,0 +1,12 @@
+{
+  "network": "bscTestnet",
+  "Deployer": "0x43cBD6b6F0DD098ECE021bBC83713204dd8F98B5",
+  "CoreDiamond": "0xc4eabe3143E71e054b6D1c8C12a4cbC10e5FB1c3",
+  "TreasuryDiamond": "0x897985086a7c34293055E7f6E5cbb9c6F7Ade2AD",
+  "childIndex": "0",
+  "TreasuryFacet": "0x4be22991970bf324bAB5F5B0D2fFc3521AD67620",
+  "LpLockFacet": "0x2621925DD2d66A5f057DF70ab3a78898540ae726",
+  "TreasuryDiamondLoupeFacet": "0xB0fC4f5e22bDbc98B0134601644D24774fA07BEC",
+  "ERC165Facet": "0xF1a99eCe3b0812122f3d666De85e5949Ad881984",
+  "addedAt": "2026-07-22T01:33:56.861Z"
+}

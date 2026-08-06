@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "AurionXI ARX Intelligence",
   "version": "1.0.0",
   "description": "AurionXI ARX Intelligence Treasury System",
@@ -8,7 +8,6 @@
     "gas": "hardhat test --report-gas",
     "test:stage4": "hardhat test test/ARXIToken.stage4.test.cjs",
     "compile": "hardhat compile",
-    "deploy": "hardhat run scripts/deploy_arxi_token.cjs --network bscTestnet",
     "node": "hardhat node"
   },
   "devDependencies": {

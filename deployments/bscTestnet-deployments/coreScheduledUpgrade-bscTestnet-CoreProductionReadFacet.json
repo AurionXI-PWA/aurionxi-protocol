@@ -1,0 +1,26 @@
+{
+  "network": "bscTestnet",
+  "CoreDiamond": "0x1d4DA8e273084C74B505aC40e0310b8449583Bf7",
+  "FacetName": "CoreProductionReadFacet",
+  "FacetAddress": "0xCdf8FaFDd8990B266760DA87f2E4c1A50f6df996",
+  "init": "0x0000000000000000000000000000000000000000",
+  "data": "0x",
+  "intent": "Production test: add CoreProductionReadFacet to CoreDiamond",
+  "delayHours": 1,
+  "expiryHours": 24,
+  "upgradeHash": "0xeb8ab0949aaac565f5fd66b7d807ab2547093e9a28ca8ccb8c0e7ee07b08786e",
+  "diffHash": "0x233ac9b6d4c7ab9782c453ec485d5ce79a7287fbd40abbaa47e87a55827d90dd",
+  "cut": [
+    {
+      "facetAddress": "0xCdf8FaFDd8990B266760DA87f2E4c1A50f6df996",
+      "action": 0,
+      "functionSelectors": [
+        "0x79b5a61a",
+        "0xd7bc125f",
+        "0x3a4f1953",
+        "0xb6035ca1"
+      ]
+    }
+  ],
+  "scheduledAt": "2026-07-18T05:51:57.931Z"
+}

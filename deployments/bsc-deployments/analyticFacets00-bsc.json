@@ -1,0 +1,16 @@
+{
+  "network": "bsc",
+  "Deployer": "0x169c8a18ab622fAB62194E27d43448813095cdBc",
+  "CoreDiamond": "0xd9886FEEb82DF74737B7Dede86E3024A31637297",
+  "AnalyticDiamond": "0xC7F819626E03c669c54d3eD9F122d49Ccfab455e",
+  "childIndex": "3",
+  "AnalyticsConfigFacet": "0x2f7Ad8F484C92C1a3c75307799fe75e4058f8D64",
+  "ExternalProtocolReadFacet": "0xE6a4d93BBEc0c3631f11D7C25B0b3ac1fbBe421f",
+  "MarketSnapshotFacet": "0xFA6395EB392E3De6C680f236C29A4bd63735C460",
+  "RiskSignalFacet": "0x659Ccc9D51D5b884D37C1FB8C3932fC37DEEFb4b",
+  "TaxHistoryFacet": "0x7F422DB7B6d9E0629C82648bB8Ee37E9b11ED7fb",
+  "WalletFlowFacet": "0x3F2Dc2E0ec8966bD8B6f86bD1C818FB46483ba79",
+  "AnalyticDiamondLoupeFacet": "0x79b876073Dc6F1e5005AaC91DfF1Be0564373D14",
+  "ERC165Facet": "0xF3395f8b3362fCEff9D8a163f7a6b6350AbFfA8f",
+  "addedAt": "2026-07-26T06:58:29.465Z"
+}

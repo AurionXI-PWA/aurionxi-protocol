@@ -1,0 +1,29 @@
+{
+  "network": "bscTestnet",
+  "CoreDiamond": "0x1d4DA8e273084C74B505aC40e0310b8449583Bf7",
+  "ChildDiamond": "0xA51ffA4035991a0F20aBf719F6A9c86B54D7297E",
+  "ChildLabel": "TokenDiamond",
+  "ChildIndex": "2",
+  "FacetName": "ChildProductionReadFacet",
+  "FacetAddress": "0xe0BdD2ffB821a4266931ae2Dbeab4fd4FdA11bf0",
+  "init": "0x0000000000000000000000000000000000000000",
+  "data": "0x",
+  "intent": "Production test: add ChildProductionReadFacet to TokenDiamond",
+  "delayHours": 1,
+  "expiryHours": 24,
+  "upgradeHash": "0x0d9a63abd209229e1f9c9480eb6958c7252d40dc3bea22ed3c12e1e29afefc75",
+  "diffHash": "0x99160e2953bf65cbccc9f5d929ffb9ee6a104b034084c2270c37a20b56ee1e82",
+  "cut": [
+    {
+      "facetAddress": "0xe0BdD2ffB821a4266931ae2Dbeab4fd4FdA11bf0",
+      "action": 0,
+      "functionSelectors": [
+        "0xca70fdad",
+        "0x7115968d",
+        "0xc40b7b64",
+        "0xa33d39b5"
+      ]
+    }
+  ],
+  "scheduledAt": "2026-07-18T07:27:58.662Z"
+}

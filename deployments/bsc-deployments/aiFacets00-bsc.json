@@ -1,0 +1,15 @@
+{
+  "network": "bsc",
+  "Deployer": "0x169c8a18ab622fAB62194E27d43448813095cdBc",
+  "CoreDiamond": "0xd9886FEEb82DF74737B7Dede86E3024A31637297",
+  "AIDiamond": "0xF42C30aB84fe2df2b9A27569d4BC019b0244eE0a",
+  "childIndex": "4",
+  "AIConfigFacet": "0xe558D56cB8cF1b2766690055DDe56aBBfde276e5",
+  "AIRecommendationFacet": "0x9DD9f28525a54174AF0274e3dBa7818630E93E93",
+  "OracleReportFacet": "0xE92a4773C7295509b9fD560A68dA652523D23cfb",
+  "PanicModeAdvisorFacet": "0xe5035b44FCDFd7EA799835Cf5538b859D074BF24",
+  "TaxPolicySuggestionFacet": "0xb3b2aa0E6f814a6277CD31bbB969E281F330A02D",
+  "AIDiamondLoupeFacet": "0xaB261c208E4fB5B88bC4e44bF4C3e5b5cBc0C0d1",
+  "ERC165Facet": "0xF3395f8b3362fCEff9D8a163f7a6b6350AbFfA8f",
+  "addedAt": "2026-07-26T06:59:06.731Z"
+}

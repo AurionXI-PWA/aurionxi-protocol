@@ -1,0 +1,18 @@
+{
+  "network": "bscTestnet",
+  "CoreDiamond": "0x1d4DA8e273084C74B505aC40e0310b8449583Bf7",
+  "ChildIndex": 2,
+  "ChildLabel": "TokenDiamond",
+  "ChildDiamond": "0xA51ffA4035991a0F20aBf719F6A9c86B54D7297E",
+  "FacetName": "ChildEmergencyReadFacet",
+  "FacetAddress": "0x36a2Cfa4bd75aee8f2FAE4E6A33A42776cC97bf9",
+  "selectors": [
+    "0xd64d222b",
+    "0x225bc249",
+    "0xbcbbbda3",
+    "0x1e5cea13"
+  ],
+  "txHash": "0x98925be6438bc3629d2268dd999346791122d9084e48faa9643d580ac9855ea0",
+  "blockNumber": 119796573,
+  "deployedAt": "2026-07-18T05:46:59.196Z"
+}
