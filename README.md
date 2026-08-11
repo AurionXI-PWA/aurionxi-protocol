@@ -57,14 +57,14 @@ AurionXI has been deployed on BNB Smart Chain Mainnet using a structured workflo
 
 | Component | Mainnet Address |
 |-----------|-----------------|
-| CoreDiamond | `0xd9886FEEb82DF74737B7Dede86E3024A31637297` |
-| TokenDiamond | `0x6fFEC4860325f8bfB3F000354708A7d0caE4b250` |
-| TradeDiamond | `0xF96c4F5EB539c8ab27469D35cc75eAAb98abFECF` |
-| TreasuryDiamond | `0x06BaBd1D1a24dBe7a9E93160dDd4Ae9bCC06893a` |
-| AnalyticsDiamond | `0xC7F819626E03c669c54d3eD9F122d49Ccfab455e` |
-| AIDiamond | `0xF42C30aB84fe2df2b9A27569d4BC019b0244eE0a` |
-| SBT | `0x2f4d81fc66a647627D8901E2e626671BDa55F819` |
-| CREATE2 Factory | `0x8BFfFAF85eA71a2FBB58e30105D50903f14d492a` |
+| CoreDiamond | https://bscscan.com/address/0xd9886FEEb82DF74737B7Dede86E3024A31637297#code |
+| TokenDiamond | https://bscscan.com/address/0x6fFEC4860325f8bfB3F000354708A7d0caE4b250#code |
+| TradeDiamond | https://bscscan.com/address/0xF96c4F5EB539c8ab27469D35cc75eAAb98abFECF#code |
+| TreasuryDiamond | https://bscscan.com/address/0x06BaBd1D1a24dBe7a9E93160dDd4Ae9bCC06893a#code |
+| AnalyticsDiamond | https://bscscan.com/address/0xC7F819626E03c669c54d3eD9F122d49Ccfab455e#code |
+| AIDiamond | https://bscscan.com/address/0xF42C30aB84fe2df2b9A27569d4BC019b0244eE0a#code |
+| SBT | https://bscscan.com/address/0x2f4d81fc66a647627D8901E2e626671BDa55F819#code |
+| CREATE2 Factory | https://bscscan.com/address/0x8BFfFAF85eA71a2FBB58e30105D50903f14d492a#code |
 
 Deployment and verification artifacts are available in `deployments/`.
 
