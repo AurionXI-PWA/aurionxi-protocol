@@ -64,7 +64,7 @@ AurionXI has been deployed on BNB Smart Chain Mainnet using a structured workflo
 | AnalyticsDiamond | https://bscscan.com/address/0xC7F819626E03c669c54d3eD9F122d49Ccfab455e#code |
 | AIDiamond | https://bscscan.com/address/0xF42C30aB84fe2df2b9A27569d4BC019b0244eE0a#code |
 | SBT | https://bscscan.com/address/0x2f4d81fc66a647627D8901E2e626671BDa55F819#code |
-| CREATE2 Factory | `https://bscscan.com/address/0x8BFfFAF85eA71a2FBB58e30105D50903f14d492a#code` |
+| CREATE2 Factory | https://bscscan.com/address/0x8BFfFAF85eA71a2FBB58e30105D50903f14d492a#code |
 
 Deployment and verification artifacts are available in `deployments/`.
 
