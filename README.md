@@ -45,6 +45,7 @@ AurionXI Protocol is currently deployed on the following production network:
 | Network | Status | Chain ID |
 |---------|--------|----------|
 | BNB Smart Chain Mainnet | Live | 56 |
+
 No Ethereum, opBNB or other production deployments are included in this repository.
 
 ## Protocol Architecture
