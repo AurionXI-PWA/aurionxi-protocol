@@ -1,6 +1,6 @@
 ﻿# AurionXI Multi-Diamond Protocol
 
-Production-grade modular blockchain infrastructure built on the EIP-2535 Diamond Standard.
+Production-grade modular blockchain infrastructure built and deployed on BNB Smart Chain Mainnet (Chain ID: 56) using the EIP-2535 Diamond Standard.
 
 AurionXI is a production-grade blockchain infrastructure project built around a modular Multi-Diamond architecture. The system separates protocol responsibilities into independent domains while maintaining coordinated governance through a unified CoreDiamond.
 
@@ -30,13 +30,22 @@ AurionXI is a production-grade blockchain infrastructure project built around a 
 
 | Component | Technology |
 |-----------|------------|
-| Blockchain | BNB Smart Chain |
+| Blockchain | BNB Smart Chain Mainnet (Chain ID: 56) |
 | Standard | EIP-2535 Diamond |
 | Language | Solidity 0.8.22 |
 | Framework | Hardhat |
 | Upgrade Model | Diamond Cut |
 | Deployment | CREATE2 + BatchExecutor |
 | License | MIT |
+
+## Supported Network
+
+AurionXI Protocol is currently deployed on the following production network:
+
+| Network | Status | Chain ID |
+|---------|--------|----------|
+| BNB Smart Chain Mainnet | Live | 56 |
+No Ethereum, opBNB or other production deployments are included in this repository.
 
 ## Protocol Architecture
 
