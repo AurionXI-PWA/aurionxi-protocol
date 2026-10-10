@@ -98,6 +98,23 @@ This repository is published for transparency, community review, and audit revie
 
 This public repository does not include private environment files, wallet keys, internal operational logs, or full private deployment automation scripts.
 
+## Security Assessment and Validation
+
+The deployed TokenDiamond received a **90.61/100** score in a SolidityScan
+static assessment, with **0 Critical, 0 High and 0 Medium** findings reported.
+Read the complete
+[ARXI Token Audit Report](https://www.aurionxi.com/ARXI_Token_Audit_Report.pdf)
+for its scope, methodology, remaining findings and disclaimers. The report is a
+static assessment, is not a guarantee that the contracts are vulnerability-free
+and should not be represented as independent certification by the SolidityScan
+team.
+
+Additional Mainnet operational validation and configuration scripts are kept
+private because they contain production-administration workflows. A sanitized
+technical walkthrough or selected evidence may be shared during a verified
+technical interview or under NDA. These private operational scripts should not
+be interpreted as a public automated unit-test suite.
+
 ## Quick Start
 
 Clone the repository:
